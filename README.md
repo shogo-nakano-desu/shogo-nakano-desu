@@ -1,4 +1,15 @@
-### Hi there 👋
+### Who I am
+- A software engineer based in Tokyo, Japan
+- A student in University of the People that is a online university in the United States
+
+### What I do
+- Working mainly on Backend
+- Mainly Using Rust and TypeScript
+
+### Links
+- [Blog page](https://blog.shgnkn.io)
+  - Currently, only in Japanese
+- [LinkedIn](https://www.linkedin.com/in/shogo-nakano-59973815b/)
 
 <!--
 **shogo-nakano-desu/shogo-nakano-desu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
