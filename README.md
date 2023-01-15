@@ -7,8 +7,7 @@
 - Mainly Using Rust and TypeScript
 
 ### Links
-- [Blog page](https://blog.shgnkn.io)
-  - Currently, only in Japanese
+- [Blog (JP only)](https://blog.shgnkn.io)
 - [LinkedIn](https://www.linkedin.com/in/shogo-nakano-59973815b/)
 
 ### What I like
