@@ -10,12 +10,6 @@
 - [Blog (JP only)](https://blog.shgnkn.io)
 - [LinkedIn](https://www.linkedin.com/in/shogo-nakano-59973815b/)
 
-### What I like
-- Hiking ⛰
-- Traveling 🛫
-- Snowboarding 🏂
-- Surfing 🏄
-
 <!--
 **shogo-nakano-desu/shogo-nakano-desu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
