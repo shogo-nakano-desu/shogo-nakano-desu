@@ -1,6 +1,6 @@
 ### Who I am
 - A software engineer based in Tokyo, Japan
-- A student in University of the People that is a online university in the United States
+- Will be a student in Georgia Tech OMSCS from Spring 2024.
 
 ### What I do
 - Working mainly on Backend
