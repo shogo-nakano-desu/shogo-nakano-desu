@@ -3,8 +3,7 @@
 - Will be a student in Georgia Tech OMSCS from Spring 2024.
 
 ### What I do
-- Working mainly on Backend
-- Mainly Using Rust and TypeScript
+- Develop backend server with Rust and TypeScript.
 
 ### Links
 - [Blog (JP only)](https://blog.shgnkn.io)
