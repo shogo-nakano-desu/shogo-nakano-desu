@@ -1,9 +1,9 @@
 ### Who I am
 - A software engineer based in Tokyo, Japan
-- Will be a student in Georgia Tech OMSCS from Spring 2024.
+- A student in Georgia Tech OMSCS
 
 ### What I do
-- Develop backend server with Rust and TypeScript.
+- Develop backend server with Rust and TypeScript
 
 ### Links
 - [Blog (JP only)](https://blog.shgnkn.io)
