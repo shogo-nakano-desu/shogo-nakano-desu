@@ -3,7 +3,7 @@
 - A student in Georgia Tech OMSCS
 
 ### What I do
-- Develop backend server with Rust and TypeScript
+- Develop API with Rust and TypeScript
 
 ### Links
 - [Blog (JP only)](https://blog.shgnkn.io)
