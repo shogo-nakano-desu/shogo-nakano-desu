@@ -3,10 +3,10 @@
 - A student in Georgia Tech OMSCS
 
 ### What I do
-- Develop API with Rust and TypeScript
+- Specializing in building robust backend services using Rust and TypeScript
 
 ### Links
-- [Blog (JP only)](https://blog.shgnkn.io)
+- [Blog (JP only)](https://shgnkn.com)
 - [LinkedIn](https://www.linkedin.com/in/shogo-nakano-59973815b/)
 
 <!--
